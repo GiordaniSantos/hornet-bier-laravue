@@ -14,11 +14,14 @@ import { createApp } from 'vue';
  */
 
 const app = createApp({});
+const appSite = createApp({});
 
 import ExampleComponent from './components/ExampleComponent.vue';
 import Login from './components/Login.vue';
+import HomeSiteComponent from './components/site/HomeSiteComponent.vue';
 app.component('example-component', ExampleComponent);
 app.component('login-component', Login);
+appSite.component('home-site-component', HomeSiteComponent);
 
 /**
  * The following block of code may be used to automatically register your
@@ -39,3 +42,4 @@ app.component('login-component', Login);
  */
 
 app.mount('#app');
+appSite.mount('#app-site');

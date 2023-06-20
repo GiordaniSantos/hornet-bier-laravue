@@ -13,9 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::any('/', function () {
+    return view('site.main');
+})->where(['all' => '.*']);
 
 Auth::routes();
 

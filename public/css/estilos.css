@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(53,54,58,255) !important;
+}
+
+.fundo{
+    display: flex;
+    width: 50%;
+    height: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-container {
+    text-align: center;
+  }
+
+h1{
+    color: white !important;
+}
