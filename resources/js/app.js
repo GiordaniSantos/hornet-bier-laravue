@@ -19,9 +19,13 @@ const appSite = createApp({});
 import ExampleComponent from './components/ExampleComponent.vue';
 import Login from './components/Login.vue';
 import HomeSiteComponent from './components/site/HomeSiteComponent.vue';
+import FooterComponent from './components/site/partials/FooterComponent.vue';
+import HeaderComponent from './components/site/partials/HeaderComponent.vue';
 app.component('example-component', ExampleComponent);
 app.component('login-component', Login);
 appSite.component('home-site-component', HomeSiteComponent);
+appSite.component('header-site-component', HeaderComponent);
+appSite.component('footer-site-component', FooterComponent);
 
 /**
  * The following block of code may be used to automatically register your
