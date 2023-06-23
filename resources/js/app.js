@@ -6,6 +6,7 @@
 
 import './bootstrap';
 import { createApp } from 'vue';
+import router from './routes'
 
 /**
  * Next, we will create a fresh Vue application instance. You may then begin
@@ -19,6 +20,10 @@ const appSite = createApp({});
 import ExampleComponent from './components/ExampleComponent.vue';
 import Login from './components/Login.vue';
 import HomeSiteComponent from './components/site/HomeSiteComponent.vue';
+import ContatoSite from './components/site/ContatoSite.vue';
+import ProdutosSite from './components/site/produto/ProdutosSite.vue';
+import ServicoSite from './components/site/servico/ServicoSite.vue';
+import Principal from './components/site/Principal.vue';
 import FooterComponent from './components/site/partials/FooterComponent.vue';
 import HeaderComponent from './components/site/partials/HeaderComponent.vue';
 app.component('example-component', ExampleComponent);
@@ -26,6 +31,10 @@ app.component('login-component', Login);
 appSite.component('home-site-component', HomeSiteComponent);
 appSite.component('header-site-component', HeaderComponent);
 appSite.component('footer-site-component', FooterComponent);
+appSite.component('principal-site-component', Principal);
+appSite.component('produtos-site-component', ProdutosSite);
+appSite.component('contato-site-component', ContatoSite);
+appSite.component('servico-site-component', ServicoSite);
 
 /**
  * The following block of code may be used to automatically register your
@@ -44,6 +53,7 @@ appSite.component('footer-site-component', FooterComponent);
  * an "id" attribute of "app". This element is included with the "auth"
  * scaffolding. Otherwise, you will need to add an element yourself.
  */
+appSite.use(router);
 
 app.mount('#app');
 appSite.mount('#app-site');

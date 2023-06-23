@@ -17,6 +17,14 @@ Route::any('/', function () {
     return view('site.main');
 })->where(['all' => '.*']);
 
+Route::any('/produtos', function () {
+    return view('site.main');
+})->where(['all' => '.*']);
+
+Route::any('/contato', function () {
+    return view('site.main');
+})->where(['all' => '.*']);
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
