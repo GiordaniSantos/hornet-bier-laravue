@@ -18,22 +18,19 @@
                     <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-dribbble"></i></a>
                 </div>
                 <!-- Footer About Text-->
                 <div class="col-lg-4">
-                    <h4 class="text-uppercase mb-4">Contatos</h4>
-                    <p class="lead mb-0">
-                        Telefone: (51) 9 9944-6655<br>
-                        Email: contato@hornetbier.com.br
-                        
-                    </p>
+                    <h4 class="text-uppercase mb-4">Assistência Téc. Autorizada</h4>
+                    <a href="https://memo.ind.br/" target="_blank"><img class="" src="images/logo-memo.png" alt="Memo" style="width: 130px;margin: 0px 10px;"/></a>
+                    <a href="https://www.chopeirasruver.com.br/" target="_blank"><img class="" src="images/logo-ruwer.png" alt="Chopeiras Ruwer" style="width: 50px;margin: 0px 10px;"/></a>
+                    <a href="https://www.chopeirastsi.com.br/" target="_blank"><img class="" src="images/logo-top-service.png" alt="Chopeiras Top Service" style="width: 65px;margin: 0px 10px;"/></a>
                 </div>
             </div>
         </div>
     </footer>
     <!-- Copyright Section-->
-    <div class="copyright py-4 text-center text-white">
+    <div class="copyright py-4 text-center text-white" style="margin-top: -20px;">
         <div class="container"><small>Copyright &copy; {{ appName }} {{ dataAtual }}</small></div>
     </div>
     <!-- Portfolio Modals-->
@@ -124,7 +121,7 @@
                                 <p class="mb-4">A chopeira de balcão Upper CX040 em inox combina com qualquer ambiente residencial, reuniões, festas e confraternizações, além de ser indicada para bares e restaurante com baixo volume de venda, permitindo ser personalizada na parte frontal e traseira, de acordo com a necessidade do cliente.</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
-                                    Close Window
+                                    Fechar
                                 </button>
                             </div>
                         </div>
@@ -218,6 +215,103 @@
                                 <img class="img-fluid rounded mb-5" src="images/chopeira-eletrica-upper-50.jpg" alt="..." />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">A chopeira de balcão Upper em inox combina com qualquer ambiente residencial, reuniões, festas e confraternizações, além de ser indicada para bares e restaurante com baixo volume de venda, permitindo ser personalizada na parte frontal e traseira, de acordo com a necessidade do cliente.</p>
+                                <button class="btn btn-primary" data-bs-dismiss="modal">
+                                    <i class="fas fa-xmark fa-fw"></i>
+                                    Fechar
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 1-->
+    <div class="portfolio-modal modal fade" id="servicoModal1" tabindex="-1" aria-labelledby="servicoModal1" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                <div class="modal-body text-center pb-5">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Manutenção</h2>
+                                <!-- Icon Divider-->
+                                <div class="divider-custom">
+                                    <div class="divider-custom-line"></div>
+                                    <div class="divider-custom-icon"><i class="fa-solid fa-beer-mug-empty"></i></div>
+                                    <div class="divider-custom-line"></div>
+                                </div>
+                                <!-- Portfolio Modal - Image-->
+                                <img class="img-fluid rounded mb-5" src="images/manutencao.jpg" alt="..." />
+                                <!-- Portfolio Modal - Text-->
+                                <p class="mb-4">Oferecemos o serviço de manutenção para chopeiras do tipo elétrica, com fornecimento de material, mão de obra e deslocamento já inclusos no preço. Sem custos adicionais!</p>
+                                <button class="btn btn-primary" data-bs-dismiss="modal">
+                                    <i class="fas fa-xmark fa-fw"></i>
+                                    Fechar
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio Modal 2-->
+    <div class="portfolio-modal modal fade" id="servicoModal2" tabindex="-1" aria-labelledby="servicoModal2" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                <div class="modal-body text-center pb-5">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Limpeza</h2>
+                                <!-- Icon Divider-->
+                                <div class="divider-custom">
+                                    <div class="divider-custom-line"></div>
+                                    <div class="divider-custom-icon"><i class="fa-solid fa-beer-mug-empty"></i></div>
+                                    <div class="divider-custom-line"></div>
+                                </div>
+                                <!-- Portfolio Modal - Image-->
+                                <img class="img-fluid rounded mb-5" src="images/manutencao-chave.jpg" alt="..." />
+                                <!-- Portfolio Modal - Text-->
+                                <p class="mb-4">Oferecemos o serviço de limpeza para chopeiras do tipo elétrica, com fornecimento de material, mão de obra e deslocamento já inclusos no preço. Sem custos adicionais! </p>
+                                <button class="btn btn-primary" data-bs-dismiss="modal">
+                                    <i class="fas fa-xmark fa-fw"></i>
+                                    Fechar
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio Modal 3-->
+    <div class="portfolio-modal modal fade" id="servicoModal3" tabindex="-1" aria-labelledby="servicoModal3" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                <div class="modal-body text-center pb-5">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Pintura</h2>
+                                <!-- Icon Divider-->
+                                <div class="divider-custom">
+                                    <div class="divider-custom-line"></div>
+                                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                    <div class="divider-custom-line"></div>
+                                </div>
+                                <!-- Portfolio Modal - Image-->
+                                <img class="img-fluid rounded mb-5" src="images/limpeza.jpg" alt="..." />
+                                <!-- Portfolio Modal - Text-->
+                                <p class="mb-4">Oferecemos o serviço de pintura para chopeiras do tipo elétrica, com fornecimento de material, mão de obra e deslocamento já inclusos no preço. Sem custos adicionais!</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Fechar

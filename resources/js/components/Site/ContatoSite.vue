@@ -7,12 +7,13 @@
             <!-- Icon Divider-->
             <div class="divider-custom">
                 <div class="divider-custom-line"></div>
-                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                <div class="divider-custom-icon"><i class="fa-solid fa-message"></i></div>
                 <div class="divider-custom-line"></div>
             </div>
             <!-- Contact Section Form-->
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xl-7">
+                    <p class="lead" style="font-size: 0.95rem;">Você também pode entrar em contato por Telefone: (51) 9 9944-6655 e/ou Email: contato@hornetbier.com.br</p>
                     <!-- * * * * * * * * * * * * * * *-->
                     <!-- * * SB Forms Contact Form * *-->
                     <!-- * * * * * * * * * * * * * * *-->

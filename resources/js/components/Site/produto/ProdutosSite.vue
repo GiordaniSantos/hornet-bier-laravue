@@ -7,7 +7,7 @@
             <!-- Icon Divider-->
             <div class="divider-custom">
                 <div class="divider-custom-line"></div>
-                <div class="divider-custom-icon"><i class="fa fa-gear"></i></div>
+                <div class="divider-custom-icon"><i class="fa-solid fa-briefcase"></i></div>
                 <div class="divider-custom-line"></div>
             </div>
             <!-- Portfolio Grid Items-->

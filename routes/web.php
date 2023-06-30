@@ -21,6 +21,10 @@ Route::any('/produtos', function () {
     return view('site.main');
 })->where(['all' => '.*']);
 
+Route::any('/servicos', function () {
+    return view('site.main');
+})->where(['all' => '.*']);
+
 Route::any('/contato', function () {
     return view('site.main');
 })->where(['all' => '.*']);
