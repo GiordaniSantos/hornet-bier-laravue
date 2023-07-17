@@ -4,6 +4,7 @@ const Principal = () => import('./components/site/Principal.vue')
 const Produtos = () => import('./components/site/produto/ProdutosSite.vue')
 const Servicos = () => import('./components/site/servico/ServicoSite.vue')
 const Contato = () => import('./components/site/ContatoSite.vue')
+const Parcerias = () => import('./components/site/parceria/ParceriasSite.vue')
 
 export const routes = [
     {
@@ -20,6 +21,11 @@ export const routes = [
         name: 'Serviços',
         path: '/servicos',
         component: Servicos
+    },
+    {
+        name: 'Parcerias',
+        path: '/parcerias',
+        component: Parcerias
     },
     {
         name: 'Contato',

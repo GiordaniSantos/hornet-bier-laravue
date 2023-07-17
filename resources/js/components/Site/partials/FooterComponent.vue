@@ -19,22 +19,21 @@
                     <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
                 </div>
-                <!-- Footer About Text-->
+                <!-- Footer Parceiros-->
                 <div class="col-lg-4">
                     <h4 class="text-uppercase mb-4">Assistência Téc. Autorizada</h4>
-                    <a href="https://memo.ind.br/" target="_blank"><img class="" src="images/logo-memo.png" alt="Memo" style="width: 130px;margin: 0px 10px;"/></a>
-                    <a href="https://www.chopeirasruver.com.br/" target="_blank"><img class="" src="images/logo-ruwer.png" alt="Chopeiras Ruwer" style="width: 50px;margin: 0px 10px;"/></a>
-                    <a href="https://www.chopeirastsi.com.br/" target="_blank"><img class="" src="images/logo-top-service.png" alt="Chopeiras Top Service" style="width: 65px;margin: 0px 10px;"/></a>
+                    <a href="https://www.chopeirasruver.com.br/" target="_blank"><img class="" src="images/logo-ruwer.png" alt="Chopeiras Ruwer" style="width: 80px;margin: 0px 10px;"/></a>
+                    <a href="https://memo.ind.br/" target="_blank"><img class="" src="images/logo-memo-footer.png" alt="Memo" style="width: 85px;margin: 0px 10px;"/></a>
+                    <a href="https://www.chopeirastsi.com.br/" target="_blank"><img class="" src="images/logo-top-service.png" alt="Chopeiras Top Service" style="width: 90px;margin: 0px 10px;"/></a>
                 </div>
             </div>
         </div>
     </footer>
     <!-- Copyright Section-->
-    <div class="copyright py-4 text-center text-white" style="margin-top: -20px;">
+    <div class="copyright py-4 text-center text-white" style="margin-top: -50px;">
         <div class="container"><small>Copyright &copy; {{ appName }} {{ dataAtual }}</small></div>
     </div>
-    <!-- Portfolio Modals-->
-    <!-- Portfolio Modal 1-->
+    <!-- Produtos Modal 1-->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1" aria-hidden="true">
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
@@ -43,22 +42,20 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Chopeira Elétrica Aleman 90 Inox</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Chopeira Elétrica 30 L/H Sem Kit Extração</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
                                     <div class="divider-custom-icon"><i class="fa-solid fa-beer-mug-empty"></i></div>
                                     <div class="divider-custom-line"></div>
                                 </div>
-                                <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="images/chopeira-eletrica-aleman.jpg" alt="..." />
-                                <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">A chopeira elétrica Aleman é adequada para bares e restaurante com alto volume de venda, pois tem uma grande capacidade de vazão, equivalente à 90 L/h. Ela pode ser personalizada total ou parcialmente. Tem 2 torneiras e serve até dois estilos de chope diferentes. A chopeira Aleman tem acabamento em inox 304 e acompanha bandeja preta de vacuum forming com grelha.</p>
-                                <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fas fa-xmark fa-fw"></i>
-                                    Fechar
-                                </button>
+                                <img class="img-fluid rounded mb-5" src="images/chopeira-tsi-2.jpg" alt="..." />
+                                <p class="mb-4">Acesse o fornecedor desta chopeira para localizar mais produtos semelhantes à este.</p>
+                                <div class="text-center mt-4">
+                                    <a class="btn btn-primary" href="https://www.chopeirastsi.com.br/" target="_blank">
+                                        Top Service Industrial
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -66,7 +63,7 @@
             </div>
         </div>
     </div>
-    <!-- Portfolio Modal 2-->
+    <!-- Produto Modal 2-->
     <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" aria-labelledby="portfolioModal2" aria-hidden="true">
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
@@ -75,22 +72,19 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
                                 <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Chopeira Elétrica Mimo 30</h2>
-                                <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
                                     <div class="divider-custom-icon"><i class="fa-solid fa-beer-mug-empty"></i></div>
                                     <div class="divider-custom-line"></div>
                                 </div>
-                                <!-- Portfolio Modal - Image-->
                                 <img class="img-fluid rounded mb-5" src="images/chopeira-eletrica-mimo-30.jpg" alt="..." />
-                                <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Chopeira com capacidade de 30 L/h. Seu acabamento é de inox 304 com tampa de inox soldada às laterais, com 1 torneira italiana. </p>
-                                <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fas fa-xmark fa-fw"></i>
-                                    Fechar
-                                </button>
+                                <p class="mb-4">Acesse o fornecedor desta chopeira para localizar mais produtos semelhantes à este. </p>
+                                <div class="text-center mt-4">
+                                    <a class="btn btn-primary" href="https://memo.ind.br/" target="_blank">
+                                        Memo
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -98,7 +92,7 @@
             </div>
         </div>
     </div>
-    <!-- Portfolio Modal 3-->
+    <!-- Produto Modal 3-->
     <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" aria-labelledby="portfolioModal3" aria-hidden="true">
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
@@ -107,22 +101,19 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Chopeira Elétrica Upper 40</h2>
-                                <!-- Icon Divider-->
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">CHOPEIRA INOX 1 TORNEIRA - BCK HOME</h2>
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
-                                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                    <div class="divider-custom-icon"><i class="fa-solid fa-beer-mug-empty"></i></div>
                                     <div class="divider-custom-line"></div>
                                 </div>
-                                <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="images/chopeira-eletrica-upper-40.jpg" alt="..." />
-                                <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">A chopeira de balcão Upper CX040 em inox combina com qualquer ambiente residencial, reuniões, festas e confraternizações, além de ser indicada para bares e restaurante com baixo volume de venda, permitindo ser personalizada na parte frontal e traseira, de acordo com a necessidade do cliente.</p>
-                                <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fas fa-xmark fa-fw"></i>
-                                    Fechar
-                                </button>
+                                <img class="img-fluid rounded mb-5" src="images/chopeira-ruver-2.png" alt="..." />
+                                <p class="mb-4">Acesse o fornecedor desta chopeira para localizar mais produtos semelhantes à este.</p>
+                                <div class="text-center mt-4">
+                                    <a class="btn btn-primary" href="https://www.chopeirasruver.com.br/" target="_blank">
+                                        Chopeiras Ruver
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -130,104 +121,7 @@
             </div>
         </div>
     </div>
-    <!-- Portfolio Modal 4-->
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" aria-labelledby="portfolioModal4" aria-hidden="true">
-        <div class="modal-dialog modal-xl">
-            <div class="modal-content">
-                <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body text-center pb-5">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Chopeira Elétrica Mini Memo Festa - 2 Torneiras</h2>
-                                <!-- Icon Divider-->
-                                <div class="divider-custom">
-                                    <div class="divider-custom-line"></div>
-                                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                    <div class="divider-custom-line"></div>
-                                </div>
-                                <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="images/chopeira-eletrica-mini-memo-festa.jpg" alt="..." />
-                                <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">A chopeira Mini Memo Festa vem com 1 torre e com 1 pré-resfriador acoplado de fácil locomoção. Não requer nenhuma instalação como uma torre convencional, basta ligar diretamente na tomada. A chopeira Mini Memo Festa é um modelo de chopeira elétrica que acompanha até 2 torneiras e tem como diferencial sua praticidade.</p>
-                                <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fas fa-xmark fa-fw"></i>
-                                    Fechar
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Portfolio Modal 5-->
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" aria-labelledby="portfolioModal5" aria-hidden="true">
-        <div class="modal-dialog modal-xl">
-            <div class="modal-content">
-                <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body text-center pb-5">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Chopeira Elétrica Memo Advantage - 2 Torneiras</h2>
-                                <!-- Icon Divider-->
-                                <div class="divider-custom">
-                                    <div class="divider-custom-line"></div>
-                                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                    <div class="divider-custom-line"></div>
-                                </div>
-                                <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="images/chopeira-eletrica-memo-advantage-2-torneiras-italiana.jpg" alt="..." />
-                                <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Chopeira Advantage CX070 é indicada para bares e restaurante com médio volume de venda, permitindo ser personalizada na parte frontal e traseira, de acordo com a necessidade do cliente. A Chopeira Advantage é indicada também para residências. Tem um design tradicional e permite ter praticamente um bar em casa, pois é uma chopeira de 70 L/h, além de ter a opção de 1 ou 2 torneiras, podendo servir dois estilos de chope em uma única chopeira. Com tampa preta em vacuum forming ou tampa soldada em inox e opção de luminoso com adesivo (lado oposto da torneira).</p>
-                                <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fas fa-xmark fa-fw"></i>
-                                    Fechar
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Portfolio Modal 6-->
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" aria-labelledby="portfolioModal6" aria-hidden="true">
-        <div class="modal-dialog modal-xl">
-            <div class="modal-content">
-                <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body text-center pb-5">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Chopeira Elétrica Upper 70 - 3 Torneiras</h2>
-                                <!-- Icon Divider-->
-                                <div class="divider-custom">
-                                    <div class="divider-custom-line"></div>
-                                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                    <div class="divider-custom-line"></div>
-                                </div>
-                                <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="images/chopeira-eletrica-upper-50.jpg" alt="..." />
-                                <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">A chopeira de balcão Upper em inox combina com qualquer ambiente residencial, reuniões, festas e confraternizações, além de ser indicada para bares e restaurante com baixo volume de venda, permitindo ser personalizada na parte frontal e traseira, de acordo com a necessidade do cliente.</p>
-                                <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fas fa-xmark fa-fw"></i>
-                                    Fechar
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Portfolio Modal 1-->
+    <!-- Servico Modal 1-->
     <div class="portfolio-modal modal fade" id="servicoModal1" tabindex="-1" aria-labelledby="servicoModal1" aria-hidden="true">
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
@@ -236,22 +130,22 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
                                 <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Manutenção</h2>
-                                <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
-                                    <div class="divider-custom-icon"><i class="fa-solid fa-beer-mug-empty"></i></div>
+                                    <div class="divider-custom-icon"><i class="fa-solid fa-gear"></i></div>
                                     <div class="divider-custom-line"></div>
                                 </div>
-                                <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="images/manutencao.jpg" alt="..." />
-                                <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Oferecemos o serviço de manutenção para chopeiras do tipo elétrica, com fornecimento de material, mão de obra e deslocamento já inclusos no preço. Sem custos adicionais!</p>
-                                <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fas fa-xmark fa-fw"></i>
-                                    Fechar
-                                </button>
+                                <img class="img-fluid rounded mb-5" src="images/Beneficios_manutencao.jpg" alt="..." />
+                                <p class="mb-4" style="margin-bottom: 4.5rem !important;">Oferecemos o serviço de manutenção para chopeiras do tipo elétrica, com fornecimento de material, mão de obra e deslocamento já inclusos no preço. Sem custos adicionais!</p>
+                                <!-- START Widget WhastApp -->
+                                <div class="text-center">
+                                    <a href="https://api.whatsapp.com/send?phone=5551999446655&text=Olá!%20Gostaria%20de%20mais%20informações%20sobre%20esse%20serviço" class="bt-whatsApp" target="_blank" style="right:39%; position: absolute; width:60px;height:60px;bottom:40px;z-index:100;">
+                                        <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pjxzdmcgdmlld0JveD0iMjYxOSA1MDYgMTIwIDEyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogIzI3ZDA0NTsKICAgICAgfQoKICAgICAgLmNscy0yLCAuY2xzLTUgewogICAgICAgIGZpbGw6IG5vbmU7CiAgICAgIH0KCiAgICAgIC5jbHMtMiB7CiAgICAgICAgc3Ryb2tlOiAjZmZmOwogICAgICAgIHN0cm9rZS13aWR0aDogNXB4OwogICAgICB9CgogICAgICAuY2xzLTMgewogICAgICAgIGZpbGw6ICNmZmY7CiAgICAgIH0KCiAgICAgIC5jbHMtNCB7CiAgICAgICAgc3Ryb2tlOiBub25lOwogICAgICB9CiAgICA8L3N0eWxlPjwvZGVmcz48ZyBkYXRhLW5hbWU9Ikdyb3VwIDM2IiBpZD0iR3JvdXBfMzYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIzMDAgNzMpIj48Y2lyY2xlIGNsYXNzPSJjbHMtMSIgY3g9IjYwIiBjeT0iNjAiIGRhdGEtbmFtZT0iRWxsaXBzZSAxOCIgaWQ9IkVsbGlwc2VfMTgiIHI9IjYwIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMTkgNDMzKSIvPjxnIGRhdGEtbmFtZT0iR3JvdXAgMzUiIGlkPSJHcm91cF8zNSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjU0IDM4NikiPjxnIGRhdGEtbmFtZT0iR3JvdXAgMzQiIGlkPSJHcm91cF8zNCI+PGcgY2xhc3M9ImNscy0yIiBkYXRhLW5hbWU9IkVsbGlwc2UgMTkiIGlkPSJFbGxpcHNlXzE5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg5NCA3NSkiPjxjaXJjbGUgY2xhc3M9ImNscy00IiBjeD0iMzEuNSIgY3k9IjMxLjUiIHI9IjMxLjUiLz48Y2lyY2xlIGNsYXNzPSJjbHMtNSIgY3g9IjMxLjUiIGN5PSIzMS41IiByPSIyOSIvPjwvZz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0xNDI0LDE5MWwtNC42LDE2LjMsMTYuOS00LjcuOS01LjItMTEsMy41LDIuOS0xMC41WiIgZGF0YS1uYW1lPSJQYXRoIDEyNiIgaWQ9IlBhdGhfMTI2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTMyNSAtNjgpIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTI2Niw5MGMwLS4xLDMuNS0xMS43LDMuNS0xMS43bDguNCw3LjlaIiBkYXRhLW5hbWU9IlBhdGggMTI3IiBpZD0iUGF0aF8xMjciIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMTY1IDQzKSIvPjwvZz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0xNDM5LjMsMTYwLjZhOS40LDkuNCwwLDAsMC0zLjksNi4xYy0uNSwzLjksMS45LDcuOSwxLjksNy45YTUwLjg3Niw1MC44NzYsMCwwLDAsOC42LDkuOCwzMC4xODEsMzAuMTgxLDAsMCwwLDkuNiw1LjEsMTEuMzc4LDExLjM3OCwwLDAsMCw2LjQuNiw5LjE2Nyw5LjE2NywwLDAsMCw0LjgtMy4yLDkuODUxLDkuODUxLDAsMCwwLC42LTIuMiw1Ljg2OCw1Ljg2OCwwLDAsMCwwLTJjLS4xLS43LTcuMy00LTgtMy44cy0xLjMsMS41LTIuMSwyLjYtMS4xLDEuNi0xLjksMS42LTQuMy0xLjQtNy42LTQuNGExNS44NzUsMTUuODc1LDAsMCwxLTQuMy02cy42LS43LDEuNC0xLjhhNS42NjQsNS42NjQsMCwwLDAsMS4zLTIuNGMwLS41LTIuOC03LjYtMy41LTcuOUExMS44NTIsMTEuODUyLDAsMCwwLDE0MzkuMywxNjAuNloiIGRhdGEtbmFtZT0iUGF0aCAxMjgiIGlkPSJQYXRoXzEyOCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEzMjYuMzMyIC02OC40NjcpIi8+PC9nPjwvZz48L3N2Zz4=" alt="" width="60px">
+                                    </a>
+                                    <span id="alertWapp" style="right:435px; visibility: hidden; position:absolute;	width:17px;	height:17px;bottom:90px; background:red;z-index:101; font-size:11px;color:#fff;text-align:center;border-radius: 50px; font-weight:bold;line-height: normal; "> 1 </span>
+                                    <div id="msg1" style="right: 45%; visibility: visible; background: #1EBC59; color: #fff; position: absolute; width: 200px; bottom: 52px; text-align: center; font-size: 13px; line-height: 31px; height: 32px; border-radius: 100px; z-index: 100; ">Solicite um orçamento via Whatsapp</div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -259,7 +153,7 @@
             </div>
         </div>
     </div>
-    <!-- Portfolio Modal 2-->
+    <!-- Servico Modal 2-->
     <div class="portfolio-modal modal fade" id="servicoModal2" tabindex="-1" aria-labelledby="servicoModal2" aria-hidden="true">
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
@@ -268,54 +162,22 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Limpeza</h2>
-                                <!-- Icon Divider-->
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Assepsia</h2>
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
-                                    <div class="divider-custom-icon"><i class="fa-solid fa-beer-mug-empty"></i></div>
+                                    <div class="divider-custom-icon"><i class="fa-solid fa-flask"></i></div>
                                     <div class="divider-custom-line"></div>
                                 </div>
-                                <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="images/manutencao-chave.jpg" alt="..." />
-                                <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Oferecemos o serviço de limpeza para chopeiras do tipo elétrica, com fornecimento de material, mão de obra e deslocamento já inclusos no preço. Sem custos adicionais! </p>
-                                <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fas fa-xmark fa-fw"></i>
-                                    Fechar
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Portfolio Modal 3-->
-    <div class="portfolio-modal modal fade" id="servicoModal3" tabindex="-1" aria-labelledby="servicoModal3" aria-hidden="true">
-        <div class="modal-dialog modal-xl">
-            <div class="modal-content">
-                <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body text-center pb-5">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Pintura</h2>
-                                <!-- Icon Divider-->
-                                <div class="divider-custom">
-                                    <div class="divider-custom-line"></div>
-                                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                    <div class="divider-custom-line"></div>
+                                <img class="img-fluid rounded mb-5" src="images/assepsia.jpg" alt="..." />
+                                <p class="mb-4" style="margin-bottom: 4.5rem !important;">Assepsia da Chopeira é um processo de limpeza interna da serpentina, por onde passa o chopp, com auxilio de uma máquina que faz a recirculação dos líquidos peracéticos. Essa ação tem por função eliminar todos os organismos que ficam armazenados durante o uso do equipamento. Oferecemos o serviço para chopeiras do tipo elétrica, com fornecimento de material, mão de obra e deslocamento já inclusos no preço. Sem custos adicionais! </p>
+                                <!-- START Widget WhastApp -->
+                                <div class="text-center">
+                                    <a href="https://api.whatsapp.com/send?phone=5551999446655&text=Olá!%20Gostaria%20de%20mais%20informações%20sobre%20esse%20serviço" class="bt-whatsApp" target="_blank" style="right:39%; position: absolute; width:60px;height:60px;bottom:40px;z-index:100;">
+                                        <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pjxzdmcgdmlld0JveD0iMjYxOSA1MDYgMTIwIDEyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogIzI3ZDA0NTsKICAgICAgfQoKICAgICAgLmNscy0yLCAuY2xzLTUgewogICAgICAgIGZpbGw6IG5vbmU7CiAgICAgIH0KCiAgICAgIC5jbHMtMiB7CiAgICAgICAgc3Ryb2tlOiAjZmZmOwogICAgICAgIHN0cm9rZS13aWR0aDogNXB4OwogICAgICB9CgogICAgICAuY2xzLTMgewogICAgICAgIGZpbGw6ICNmZmY7CiAgICAgIH0KCiAgICAgIC5jbHMtNCB7CiAgICAgICAgc3Ryb2tlOiBub25lOwogICAgICB9CiAgICA8L3N0eWxlPjwvZGVmcz48ZyBkYXRhLW5hbWU9Ikdyb3VwIDM2IiBpZD0iR3JvdXBfMzYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIzMDAgNzMpIj48Y2lyY2xlIGNsYXNzPSJjbHMtMSIgY3g9IjYwIiBjeT0iNjAiIGRhdGEtbmFtZT0iRWxsaXBzZSAxOCIgaWQ9IkVsbGlwc2VfMTgiIHI9IjYwIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMTkgNDMzKSIvPjxnIGRhdGEtbmFtZT0iR3JvdXAgMzUiIGlkPSJHcm91cF8zNSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjU0IDM4NikiPjxnIGRhdGEtbmFtZT0iR3JvdXAgMzQiIGlkPSJHcm91cF8zNCI+PGcgY2xhc3M9ImNscy0yIiBkYXRhLW5hbWU9IkVsbGlwc2UgMTkiIGlkPSJFbGxpcHNlXzE5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg5NCA3NSkiPjxjaXJjbGUgY2xhc3M9ImNscy00IiBjeD0iMzEuNSIgY3k9IjMxLjUiIHI9IjMxLjUiLz48Y2lyY2xlIGNsYXNzPSJjbHMtNSIgY3g9IjMxLjUiIGN5PSIzMS41IiByPSIyOSIvPjwvZz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0xNDI0LDE5MWwtNC42LDE2LjMsMTYuOS00LjcuOS01LjItMTEsMy41LDIuOS0xMC41WiIgZGF0YS1uYW1lPSJQYXRoIDEyNiIgaWQ9IlBhdGhfMTI2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTMyNSAtNjgpIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTI2Niw5MGMwLS4xLDMuNS0xMS43LDMuNS0xMS43bDguNCw3LjlaIiBkYXRhLW5hbWU9IlBhdGggMTI3IiBpZD0iUGF0aF8xMjciIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMTY1IDQzKSIvPjwvZz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0xNDM5LjMsMTYwLjZhOS40LDkuNCwwLDAsMC0zLjksNi4xYy0uNSwzLjksMS45LDcuOSwxLjksNy45YTUwLjg3Niw1MC44NzYsMCwwLDAsOC42LDkuOCwzMC4xODEsMzAuMTgxLDAsMCwwLDkuNiw1LjEsMTEuMzc4LDExLjM3OCwwLDAsMCw2LjQuNiw5LjE2Nyw5LjE2NywwLDAsMCw0LjgtMy4yLDkuODUxLDkuODUxLDAsMCwwLC42LTIuMiw1Ljg2OCw1Ljg2OCwwLDAsMCwwLTJjLS4xLS43LTcuMy00LTgtMy44cy0xLjMsMS41LTIuMSwyLjYtMS4xLDEuNi0xLjksMS42LTQuMy0xLjQtNy42LTQuNGExNS44NzUsMTUuODc1LDAsMCwxLTQuMy02cy42LS43LDEuNC0xLjhhNS42NjQsNS42NjQsMCwwLDAsMS4zLTIuNGMwLS41LTIuOC03LjYtMy41LTcuOUExMS44NTIsMTEuODUyLDAsMCwwLDE0MzkuMywxNjAuNloiIGRhdGEtbmFtZT0iUGF0aCAxMjgiIGlkPSJQYXRoXzEyOCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEzMjYuMzMyIC02OC40NjcpIi8+PC9nPjwvZz48L3N2Zz4=" alt="" width="60px">
+                                    </a>
+                                    <span id="alertWapp" style="right:435px; visibility: hidden; position:absolute;	width:17px;	height:17px;bottom:90px; background:red;z-index:101; font-size:11px;color:#fff;text-align:center;border-radius: 50px; font-weight:bold;line-height: normal; "> 1 </span>
+                                    <div id="msg1" style="right: 45%; visibility: visible; background: #1EBC59; color: #fff; position: absolute; width: 200px; bottom: 52px; text-align: center; font-size: 13px; line-height: 31px; height: 32px; border-radius: 100px; z-index: 100; ">Solicite um orçamento via Whatsapp</div>
                                 </div>
-                                <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="images/limpeza.jpg" alt="..." />
-                                <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Oferecemos o serviço de pintura para chopeiras do tipo elétrica, com fornecimento de material, mão de obra e deslocamento já inclusos no preço. Sem custos adicionais!</p>
-                                <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fas fa-xmark fa-fw"></i>
-                                    Fechar
-                                </button>
                             </div>
                         </div>
                     </div>
@@ -338,6 +200,7 @@
             this.dataAtual = data.getFullYear();
             this.appName = import.meta.env.VITE_APP_NAME;
         },
+        
     }
 </script>
 

@@ -16,6 +16,7 @@
 
         <link rel="stylesheet" href="{{ asset('css/estilos.css') }}">
         <link rel="stylesheet" href="{{ asset('css/responsivo.css') }}">
+        
         <!-- Scripts -->
         @vite(['resources/sass/app.scss', 'resources/js/app.js'])
     </head>
@@ -30,7 +31,7 @@
 
         <!--Botão whatsapp-->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-        <a href="https://web.whatsapp.com/send?phone=5551984219721&text=Olá+é+da+Hornet+Bier?" target="_blank">
+        <a href="https://web.whatsapp.com/send?phone=5551999446655&text=Olá+é+da+Hornet+Bier?" target="_blank">
             <div class="btn-whatsapp pulsaDelay"><i class="fab fa-whatsapp"></i></div>
         </a>
         <!--Botão whatsapp-->

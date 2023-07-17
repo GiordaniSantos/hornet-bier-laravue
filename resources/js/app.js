@@ -23,6 +23,7 @@ import HomeSiteComponent from './components/site/HomeSiteComponent.vue';
 import ContatoSite from './components/site/ContatoSite.vue';
 import ProdutosSite from './components/site/produto/ProdutosSite.vue';
 import ServicoSite from './components/site/servico/ServicoSite.vue';
+import ParceriasSite from './components/site/parceria/ParceriasSite.vue';
 import Principal from './components/site/Principal.vue';
 import FooterComponent from './components/site/partials/FooterComponent.vue';
 import HeaderComponent from './components/site/partials/HeaderComponent.vue';
@@ -35,6 +36,7 @@ appSite.component('principal-site-component', Principal);
 appSite.component('produtos-site-component', ProdutosSite);
 appSite.component('contato-site-component', ContatoSite);
 appSite.component('servico-site-component', ServicoSite);
+appSite.component('parcerias-site-component', ParceriasSite);
 
 /**
  * The following block of code may be used to automatically register your
