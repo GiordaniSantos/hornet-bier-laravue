@@ -17,6 +17,11 @@
                         </div>
                         <img class="img-fluid" src="images/manutencao2.jpg" alt="..." />
                     </div>
+                    <div><br>
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#servicoModal1" target="_blank" style="text-decoration: none;text-align: center;color: #000000;margin-top: 10px;">
+                            <h4><strong>Manutenção</strong></h4>
+                        </a>
+                    </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mb-5">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#servicoModal2">
@@ -25,9 +30,13 @@
                         </div>
                         <img class="img-fluid" src="images/assepsia.jpg" alt="..." />
                     </div>
+                    <div><br>
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#servicoModal2" target="_blank" style="text-decoration: none;text-align: center;color: #000000;margin-top: 10px;">
+                            <h4><strong>Assepsia</strong></h4>
+                        </a>
+                    </div>
                 </div>
             </div>
-            
         </div>
     </section>
 </template>

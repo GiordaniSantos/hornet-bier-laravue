@@ -7,17 +7,14 @@
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <h4 class="text-uppercase mb-4">Endereço</h4>
                     <p class="lead mb-0">
-                        Rua . Campo Grande , 482
-                        <br />
                         Bairro Vargas, Sapucaia do Sul/RS
                     </p>
                 </div>
                 <!-- Footer Social Icons-->
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <h4 class="text-uppercase mb-4">Redes Sociais</h4>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                    <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/hornetbier/" target="_blank"><i class="fab fa-fw fa-facebook-f"></i></a>
+                    <a class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/hornetbier/"><i class="fab fa-fw fa-instagram"></i></a>
                 </div>
                 <!-- Footer Parceiros-->
                 <div class="col-lg-4">

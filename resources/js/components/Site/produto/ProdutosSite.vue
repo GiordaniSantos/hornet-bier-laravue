@@ -18,6 +18,11 @@
                         </div>
                         <img class="img-fluid" src="images/chopeira-ruver-2.png" alt="..." />
                     </div>
+                    <div><br>
+                        <a href="https://www.chopeirasruver.com.br/" target="_blank" style="text-decoration: none;text-align: center;color: #000;margin-top: 10px;">
+                            <h4><strong>Chopeiras Ruver</strong></h4>
+                        </a>
+                    </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mb-5">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
@@ -25,6 +30,11 @@
                             <div class="portfolio-item-caption-content text-center text-white"><img class="" src="images/logo-memo.png" alt="..." style="width: 100%;"/></div>
                         </div>
                         <img class="img-fluid" src="images/chopeira-eletrica-mimo-30.jpg" alt="..." />
+                    </div>
+                    <div><br>
+                        <a href="https://memo.ind.br/" target="_blank" style="text-decoration: none;text-align: center;color: #000;margin-top: 10px;">
+                            <h4><strong>Chopeiras Memo</strong></h4>
+                        </a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mb-5">
@@ -34,11 +44,11 @@
                         </div>
                         <img class="img-fluid" src="images/chopeira-tsi-2.jpg" alt="..." />
                     </div>
-                </div>
-                <div class="text-center mt-4">
-                    <router-link to="/produtos" class="btn btn-xl btn-outline-black">
-                        Ver todos
-                    </router-link>
+                    <div><br>
+                        <a href="https://www.chopeirastsi.com.br/" target="_blank" style="text-decoration: none;text-align: center;color: #000;margin-top: 10px;">
+                            <h4><strong>Chopeiras Top Service Industrial</strong></h4>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

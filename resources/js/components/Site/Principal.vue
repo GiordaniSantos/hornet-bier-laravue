@@ -87,7 +87,7 @@
                         <img class="img-fluid" src="images/manutencao2.jpg" alt="..." />
                     </div>
                     <div><br>
-                        <a href="#" target="_blank" style="text-decoration: none;text-align: center;color: #ffffff;margin-top: 10px;">
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#servicoModal1" target="_blank" style="text-decoration: none;text-align: center;color: #ffffff;margin-top: 10px;">
                             <h4><strong>Manutenção</strong></h4>
                         </a>
                     </div>
@@ -100,7 +100,7 @@
                         <img class="img-fluid" src="images/assepsia.jpg" alt="..." />
                     </div>
                     <div><br>
-                        <a href="#" target="_blank" style="text-decoration: none;text-align: center;color: #ffffff;margin-top: 10px;">
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#servicoModal2" target="_blank" style="text-decoration: none;text-align: center;color: #ffffff;margin-top: 10px;">
                             <h4><strong>Assepsia</strong></h4>
                         </a>
                     </div>
