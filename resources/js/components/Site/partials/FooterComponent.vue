@@ -134,7 +134,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <img class="img-fluid rounded mb-5" src="images/Beneficios_manutencao.jpg" alt="..." />
-                                <p class="mb-4" style="margin-bottom: 4.5rem !important;">Oferecemos o serviço de manutenção para chopeiras do tipo elétrica, com fornecimento de material.</p>
+                                <p class="mb-4" style="margin-bottom: 4.5rem !important;">Serviço de manutenção em Chopeiras, Traves , Naja, serviço de instalação, com ou sem fornecimento de material. Manutenção corretiva e preventiva.</p>
                                 <!-- START Widget WhastApp -->
                                 <div class="text-center">
                                     <a href="https://api.whatsapp.com/send?phone=5551999446655&text=Olá!%20Gostaria%20de%20mais%20informações%20sobre%20esse%20serviço" class="bt-whatsApp" target="_blank" style="right:39%; position: absolute; width:60px;height:60px;bottom:40px;z-index:100;">
