@@ -41,6 +41,20 @@
                 <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 box4-parceria">
                     <div id="box-parceria" class="height-lista-parceria">
                         <div class="box-parceria-img">
+                            <a href="https://chopeirasgobboecia.com.br/" target="_blank">
+                                <img src="images/parcerias/gobbo.png" alt="">
+                            </a>
+                        </div>
+                        <div>
+                            <a href="https://chopeirasgobboecia.com.br/" target="_blank" style="text-decoration: none;">
+                                <h4><strong>Chopeiras Gobbo</strong></h4>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 box4-parceria">
+                    <div id="box-parceria" class="height-lista-parceria">
+                        <div class="box-parceria-img">
                             <a href="https://www.maxbeershop.com.br/" target="_blank">
                                 <img src="images/parcerias/maxbeer.png" alt="">
                             </a>
@@ -104,6 +118,20 @@
                         <div>
                             <a href="https://snakerpimports.mercadoshops.com.br/" target="_blank" style="text-decoration: none;">
                                 <h4><strong>Snake Chopeiras</strong></h4>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 box4-parceria">
+                    <div id="box-parceria" class="height-lista-parceria">
+                        <div class="box-parceria-img">
+                            <a href="https://www.instagram.com/chopeirasiceberg/" target="_blank">
+                                <img src="images/parcerias/iceberg.jpg" alt="">
+                            </a>
+                        </div>
+                        <div>
+                            <a href="https://www.instagram.com/chopeirasiceberg/" target="_blank" style="text-decoration: none;">
+                                <h4><strong>Iceberg Chopeiras</strong></h4>
                             </a>
                         </div>
                     </div>
