@@ -134,7 +134,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <img class="img-fluid rounded mb-5" src="images/Beneficios_manutencao.jpg" alt="..." />
-                                <p class="mb-4" style="margin-bottom: 4.5rem !important;">Oferecemos o serviço de manutenção para chopeiras do tipo elétrica, com fornecimento de material, mão de obra e deslocamento já inclusos no preço. Sem custos adicionais!</p>
+                                <p class="mb-4" style="margin-bottom: 4.5rem !important;">Oferecemos o serviço de manutenção para chopeiras do tipo elétrica, com fornecimento de material.</p>
                                 <!-- START Widget WhastApp -->
                                 <div class="text-center">
                                     <a href="https://api.whatsapp.com/send?phone=5551999446655&text=Olá!%20Gostaria%20de%20mais%20informações%20sobre%20esse%20serviço" class="bt-whatsApp" target="_blank" style="right:39%; position: absolute; width:60px;height:60px;bottom:40px;z-index:100;">
@@ -166,7 +166,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <img class="img-fluid rounded mb-5" src="images/assepsia.jpg" alt="..." />
-                                <p class="mb-4" style="margin-bottom: 4.5rem !important;">Assepsia da Chopeira é um processo de limpeza interna da serpentina, por onde passa o chopp, com auxilio de uma máquina que faz a recirculação dos líquidos peracéticos. Essa ação tem por função eliminar todos os organismos que ficam armazenados durante o uso do equipamento. Oferecemos o serviço para chopeiras do tipo elétrica, com fornecimento de material, mão de obra e deslocamento já inclusos no preço. Sem custos adicionais! </p>
+                                <p class="mb-4" style="margin-bottom: 4.5rem !important;">Assepsia da Chopeira é um processo de limpeza interna da serpentina, por onde passa o chopp, com auxilio de uma máquina que faz a recirculação dos líquidos peracéticos. Essa ação tem por função eliminar todos os organismos que ficam armazenados durante o uso do equipamento. Oferecemos o serviço para chopeiras do tipo elétrica, com fornecimento de material. </p>
                                 <!-- START Widget WhastApp -->
                                 <div class="text-center">
                                     <a href="https://api.whatsapp.com/send?phone=5551999446655&text=Olá!%20Gostaria%20de%20mais%20informações%20sobre%20esse%20serviço" class="bt-whatsApp" target="_blank" style="right:39%; position: absolute; width:60px;height:60px;bottom:40px;z-index:100;">

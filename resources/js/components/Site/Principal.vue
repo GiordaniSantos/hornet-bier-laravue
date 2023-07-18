@@ -4,7 +4,7 @@
         <div class="container d-flex align-items-center flex-column">
             <!-- Masthead Avatar Image-->
             <img class="masthead-avatar mb-5" src="images/logo.png" alt="..." />
-            <p class="masthead-subheading font-weight-light mb-0">Chopeiras - Acessórios - Manutenção</p>
+            <p class="masthead-subheading font-weight-light mb-0">Chopeiras - Manutenção</p>
             <!-- Icon Divider-->
             <div class="divider-custom divider-light">
                 <div class="divider-custom-line"></div>

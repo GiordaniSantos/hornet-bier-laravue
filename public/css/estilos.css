@@ -370,7 +370,7 @@ a:hover {
   line-height: 2.75rem;
 }
 .masthead .masthead-subheading {
-  font-size: 1.25rem;
+  font-size: 1.45rem;
 }
 .masthead .masthead-avatar {
   width: 25rem;
@@ -386,7 +386,7 @@ a:hover {
     line-height: 3.5rem;
   }
   .masthead .masthead-subheading {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 }
 .portfolio .portfolio-item {
