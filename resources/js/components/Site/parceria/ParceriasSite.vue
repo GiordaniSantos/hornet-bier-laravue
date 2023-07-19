@@ -125,12 +125,12 @@
                 <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 box4-parceria">
                     <div id="box-parceria" class="height-lista-parceria">
                         <div class="box-parceria-img">
-                            <a href="https://www.instagram.com/chopeirasiceberg/" target="_blank">
+                            <a href="https://www.chopeirasiceberg.com/" target="_blank">
                                 <img src="images/parcerias/iceberg.jpg" alt="">
                             </a>
                         </div>
                         <div>
-                            <a href="https://www.instagram.com/chopeirasiceberg/" target="_blank" style="text-decoration: none;">
+                            <a href="https://www.chopeirasiceberg.com/" target="_blank" style="text-decoration: none;">
                                 <h4><strong>Chopeiras Iceberg</strong></h4>
                             </a>
                         </div>
@@ -139,12 +139,12 @@
                 <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 box4-parceria">
                     <div id="box-parceria" class="height-lista-parceria">
                         <div class="box-parceria-img">
-                            <a href="https://www.instagram.com/chopeirasiceberg/" target="_blank">
+                            <a href="https://www.instagram.com/supremax_chopeiras/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank">
                                 <img src="images/parcerias/supremax.PNG" alt="">
                             </a>
                         </div>
                         <div>
-                            <a href="https://www.instagram.com/chopeirasiceberg/" target="_blank" style="text-decoration: none;">
+                            <a href="https://www.instagram.com/supremax_chopeiras/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank" style="text-decoration: none;">
                                 <h4><strong>Supremax Chopeiras</strong></h4>
                             </a>
                         </div>
