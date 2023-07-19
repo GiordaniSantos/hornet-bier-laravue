@@ -140,7 +140,7 @@
                     <div id="box-parceria" class="height-lista-parceria">
                         <div class="box-parceria-img">
                             <a href="https://www.instagram.com/supremax_chopeiras/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank">
-                                <img src="images/parcerias/supremax.PNG" alt="">
+                                <img src="images/parcerias/supremax-logo.jpg" alt="">
                             </a>
                         </div>
                         <div>
