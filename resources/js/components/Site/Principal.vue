@@ -84,7 +84,7 @@
                         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="images/manutencao2.jpg" alt="..." />
+                        <img class="img-fluid" src="images/manutencao9.jpg" alt="..." />
                     </div>
                     <div><br>
                         <a href="#" data-bs-toggle="modal" data-bs-target="#servicoModal1" target="_blank" style="text-decoration: none;text-align: center;color: #ffffff;margin-top: 10px;">
