@@ -538,3 +538,7 @@ a:hover {
 	overflow: hidden !important;
     height: 230px !important;
 }
+
+.img-servico3{
+  max-height: 715px !important;
+}
