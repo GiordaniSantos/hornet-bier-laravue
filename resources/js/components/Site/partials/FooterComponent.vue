@@ -230,45 +230,19 @@
                                         <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto9.jpg" alt="..." /></div>
                                     </Slide>
                                     <Slide key="10">
-                                        <div class="carousel__item">
-                                            <video width="700" height="700" controls>
-                                                <source src="images/servico-instalacao/video1.mp4" type="video/mp4">
-                                                Seu navegador não suporta a tag de vídeo.
-                                            </video>
-                                        </div>
+                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto10.jpg" alt="..." /></div>
                                     </Slide>
                                     <Slide key="11">
-                                        <div class="carousel__item">
-                                            <video width="700" height="700" controls>
-                                                <source src="images/servico-instalacao/video2.mp4" type="video/mp4">
-                                                Seu navegador não suporta a tag de vídeo.
-                                            </video>
-                                        </div>
+                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto11.jpg" alt="..." /></div>
                                     </Slide>
-                                    <Slide key="12">
+                                    <!--Vídeo <Slide key="12">
                                         <div class="carousel__item">
                                             <video width="700" height="700" controls>
                                                 <source src="images/servico-instalacao/video3.mp4" type="video/mp4">
                                                 Seu navegador não suporta a tag de vídeo.
                                             </video>
                                         </div>
-                                    </Slide>
-                                    <Slide key="13">
-                                        <div class="carousel__item">
-                                            <video width="700" height="700" controls>
-                                                <source src="images/servico-instalacao/video4.mp4" type="video/mp4">
-                                                Seu navegador não suporta a tag de vídeo.
-                                            </video>
-                                        </div>
-                                    </Slide>
-                                    <Slide key="14">
-                                        <div class="carousel__item">
-                                            <video width="700" height="700" controls>
-                                                <source src="images/servico-instalacao/video5.mp4" type="video/mp4">
-                                                Seu navegador não suporta a tag de vídeo.
-                                            </video>
-                                        </div>
-                                    </Slide>
+                                    </Slide>-->
                                     <template #addons>
                                     <Navigation />
                                     <Pagination />
