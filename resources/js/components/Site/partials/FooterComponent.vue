@@ -135,7 +135,6 @@
                                 </div>
                                 <img class="img-fluid rounded mb-5" src="images/manutencao9.jpg" alt="..." />
                                 <p class="mb-4" style="margin-bottom: 4.5rem !important;">Nosso serviço de assistência técnica / manutenção preventiva e corretiva, você entra em contato e agendamos o melhor dia para a retirada ou entrega do seu equipamento.
-                                    Trabalhamos com instalação de Najas, Traves, residenciais e comerciais entre outros equipamentos.
                                     Tá precisando de assistência técnica / manutenção ou instalação? Chama a Hornetbier!!!!!
                                     Agendamento e informações,  chama no WhatsApp (51) 999446655.</p>
                                 <!-- START Widget WhastApp -->
@@ -201,10 +200,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                             
-                                <Carousel>
-                                    <Slide key="1">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto6.jpg" alt="..." /></div>
-                                    </Slide>
+                                <Carousel :autoplay="3000" :wrap-around="true">
                                     <Slide key="2">
                                         <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto1.jpg" alt="..." /></div>
                                     </Slide>
@@ -216,9 +212,6 @@
                                     </Slide>
                                     <Slide key="5">
                                         <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto4.jpg" alt="..." /></div>
-                                    </Slide>
-                                    <Slide key="6">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto5.jpg" alt="..." /></div>
                                     </Slide>
                                     <Slide key="7">
                                         <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto7.jpg" alt="..." /></div>
