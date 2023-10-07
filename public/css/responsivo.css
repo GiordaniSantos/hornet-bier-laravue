@@ -3,10 +3,13 @@
 /*----- MÁXIMO 475 -----*/
 @media (max-width:475px) {
     .bt-whatsApp{
-        right: 20% !important;
+        right: 19% !important;
     }
     #msg1{
         right: 35% !important;
+    }
+    .masthead .masthead-avatar{
+        width: 22rem;
     }
 }
 
@@ -21,6 +24,9 @@
     }
     #msg1{
         right: 39% !important;
+    }
+    .masthead .masthead-avatar{
+        width: 23rem;
     }
 }
 
