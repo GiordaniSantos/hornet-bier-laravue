@@ -1,10 +1,10 @@
 <template>
     <!-- Masthead-->
-    <header class="masthead bg-primary text-white text-center">
+    <header class="masthead text-white text-center">
         <div class="container d-flex align-items-center flex-column">
             <!-- Masthead Avatar Image-->
             <img class="masthead-avatar mb-5" src="images/logo.png" alt="..." />
-            <p class="masthead-subheading font-weight-light mb-0">Chopeiras - Manutenção</p>
+            <p class="masthead-subheading font-weight-light mb-0">Chopeiras - Manutenção - Refrigeração em Geral</p>
             <!-- Icon Divider-->
             <div class="divider-custom divider-light">
                 <div class="divider-custom-line"></div>

@@ -200,47 +200,53 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                             
-                                <Carousel :autoplay="3000" :wrap-around="true">
-                                    <Slide key="2">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto1.jpg" alt="..." /></div>
-                                    </Slide>
-                                    <Slide key="3">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto2.jpg" alt="..." /></div>
-                                    </Slide>
-                                    <Slide key="4">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto3.jpg" alt="..." /></div>
-                                    </Slide>
-                                    <Slide key="5">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto4.jpg" alt="..." /></div>
-                                    </Slide>
-                                    <Slide key="7">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto7.jpg" alt="..." /></div>
-                                    </Slide>
-                                    <Slide key="8">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto8.jpg" alt="..." /></div>
-                                    </Slide>
-                                    <Slide key="9">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto9.jpg" alt="..." /></div>
-                                    </Slide>
-                                    <Slide key="10">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto10.jpg" alt="..." /></div>
-                                    </Slide>
-                                    <Slide key="11">
-                                        <div class="carousel__item"><img class="img-fluid rounded mb-5 img-servico3" src="images/servico-instalacao/foto11.jpg" alt="..." /></div>
-                                    </Slide>
-                                    <!--Vídeo <Slide key="12">
-                                        <div class="carousel__item">
+                                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <img src="images/servico-instalacao/foto1.jpg" class="img-fluid rounded mb-5 img-servico3" alt="...">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/servico-instalacao/foto2.jpg" class="img-fluid rounded mb-5 img-servico3" alt="...">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/servico-instalacao/foto3.jpg" class="img-fluid rounded mb-5 img-servico3" alt="...">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/servico-instalacao/foto4.jpg" class="img-fluid rounded mb-5 img-servico3" alt="...">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/servico-instalacao/foto7.jpg" class="img-fluid rounded mb-5 img-servico3" alt="...">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/servico-instalacao/foto8.jpg" class="img-fluid rounded mb-5 img-servico3" alt="...">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/servico-instalacao/foto9.jpg" class="img-fluid rounded mb-5 img-servico3" alt="...">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/servico-instalacao/foto10.jpg" class="img-fluid rounded mb-5 img-servico3" alt="...">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/servico-instalacao/foto11.jpg" class="img-fluid rounded mb-5 img-servico3" alt="...">
+                                        </div>
+                                        <!--Vídeo <Slide key="12">
+                                        <div class="carousel-item">
                                             <video width="700" height="700" controls>
                                                 <source src="images/servico-instalacao/video3.mp4" type="video/mp4">
                                                 Seu navegador não suporta a tag de vídeo.
                                             </video>
                                         </div>
-                                    </Slide>-->
-                                    <template #addons>
-                                    <Navigation />
-                                    <Pagination />
-                                    </template>
-                                </Carousel>
+                                        </Slide>-->
+                                    </div>
+                                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                        <span class="visually-hidden">Previous</span>
+                                    </button>
+                                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                        <span class="visually-hidden">Next</span>
+                                    </button>
+                                </div>
                                 <p class="mb-4" style="margin-bottom: 4.5rem !important; margin-top:20px;">Trabalhamos com instalação de Najas, Traves, Projetos, residenciais e comerciais entre outros.</p>
                                 <!-- START Widget WhastApp -->
                                 <div class="text-center">
@@ -260,18 +266,8 @@
 </template>
 
 <script>
-import { Carousel, Navigation, Pagination, Slide } from 'vue3-carousel'
-
-import 'vue3-carousel/dist/carousel.css'
-
     export default {
         name: 'Basic',
-        components: {
-            Carousel,
-            Slide,
-            Pagination,
-            Navigation,
-        },
         data(){
             return {
                 appName: '',

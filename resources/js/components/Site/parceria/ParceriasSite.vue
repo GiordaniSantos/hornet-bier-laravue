@@ -136,6 +136,7 @@
                         </div>
                     </div>
                 </div>
+                <!--
                 <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 box4-parceria">
                     <div id="box-parceria" class="height-lista-parceria">
                         <div class="box-parceria-img">
@@ -163,7 +164,7 @@
                             </a>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 box4-parceria">
                     <div id="box-parceria" class="height-lista-parceria">
                         <div class="box-parceria-img">
